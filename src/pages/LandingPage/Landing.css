@@ -1,6 +1,11 @@
-.flex__centre__2{
-    display:flex;
+.landing-container{
     justify-content: center;
     background-color:black;
-    padding: 14rem 5rem;
+    height: 100vh;
+    width: 100%;
+    color: white;
+}
+
+.landing-content {
+    
 }

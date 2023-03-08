@@ -1,6 +1,6 @@
-.flex__centre1{
-    display:flex;
+.blog-container{
     justify-content: center;
-    background-color:brown;
-    padding: 14rem 5rem;
+    background-color:white;
+    height: 100vh;
+    width: 100%;
 }

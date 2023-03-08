@@ -1,15 +1,11 @@
-import './App.css';
-import { Navbar } from './components';
+import "./App.css";
 
+import { Landing } from "./pages";
 
 const App = () => (
-    <div>
- 
-    <Navbar />
-    
- 
-    </div>
-  );
-
+  <div className="app-container">
+    <Landing />
+  </div>
+);
 
 export default App;
