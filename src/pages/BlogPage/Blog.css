@@ -1,0 +1,6 @@
+.flex__centre1{
+    display:flex;
+    justify-content: center;
+    background-color:brown;
+    padding: 14rem 5rem;
+}
