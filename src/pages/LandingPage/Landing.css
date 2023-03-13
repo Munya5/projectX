@@ -6,6 +6,10 @@
     color: white;
 }
 
-.landing-content {
-    
+.Landing-text{
+    display:flex;
+    justify-content: center;
+    color:palegoldenrod;
+    height: 75%;
+    align-items: center;
 }

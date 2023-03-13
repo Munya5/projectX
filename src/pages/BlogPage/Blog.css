@@ -1,6 +1,17 @@
-.blog-container{
+.blog-container {
     justify-content: center;
     background-color:white;
     height: 100vh;
     width: 100%;
+    
+     
 }
+.blog-text{
+    display:flex;
+    justify-content: center;
+    color:coral;
+    height: 75%;
+    align-items: center;
+}
+
+
