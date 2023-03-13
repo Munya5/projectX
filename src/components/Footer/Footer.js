@@ -10,7 +10,7 @@ const Footer = () => (
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">Iron Works Complex , Woodstock ,Cape Town</p>
         <p className="p__opensans">+27 818-517-826</p>
-        <p className="p__opensans">+27 685-213-958</p>
+        <p className="p__opensans">+27 714-293-780</p>
         <p className="p__opensans">+27 679-003-436</p>
       </div>
 
