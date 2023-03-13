@@ -4,7 +4,9 @@ import { Navbar } from "../../components";
 const About = () => (
   <div className="about-container">
     <Navbar />
-    <h1>ABOUT</h1>
+    <div className="about-text">
+     <h1>ABOUT</h1>
+    </div>
   </div>
 );
 

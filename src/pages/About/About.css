@@ -5,3 +5,10 @@
     width: 100%;
     color: white;
 }
+.about-text{
+    display:flex;
+    justify-content: center;
+    color: aqua;
+    height: 75%;
+    align-items: center;
+}
